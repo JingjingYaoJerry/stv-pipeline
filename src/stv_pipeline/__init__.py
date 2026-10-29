@@ -1,0 +1,1 @@
+"""Speech-to-video pipeline: record, transcribe, plan, then generate image, voice, and video."""
